@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_auth_task/core/application.dart';
-import 'package:flutter_auth_task/providers.dart';
+import 'package:flutter_auth_task/requests/login_provider.dart';
 import 'package:flutter_auth_task/style/app_styles.dart';
 import 'package:flutter_auth_task/style/style.dart';
 import 'package:flutter_hooks/flutter_hooks.dart';
