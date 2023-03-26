@@ -1,0 +1,856 @@
+{
+  "app_name": "Himam",
+  "noInternetMsg": "نعتذر لا يوجد اتصال بالانترنت",
+  "noInternet": "لايوجد اتصال بالانترنت",
+  "language": "English",
+  "Language": "اللغة",
+
+  "lang": "اللغة",
+  "English": "English",
+  "Arabic": "العربية",
+  "welcome": "مرحبا بك",
+  "message_exit": "اضغط مرة أخرى للخروج",
+  "home": "الرئيسية",
+  "mobile_number": "رقم الموبايل",
+  "guest_login": "دخول بحساب زائر",
+  "signup": "حساب جديد",
+  "MyProfile": "حسابي الشخصي",
+  "RateApp": "قيم التطبيق",
+  "ContactUs": "تواصل معنا",
+  "phoneNumber": "رقم الهاتف",
+  "logout": "تسجيل خروج",
+  "ok": "حسناً",
+  "orSignIn": "أو قم بتسجيل الدخول باستخدام البريد الإلكتروني",
+  "orSignUp": "أو الاشتراك مع البريد الإلكتروني",
+  "email": "البريد الالكتروني",
+  "password": "كلمة المرور",
+  "noAccount": "ليس لديك حساب؟",
+  "forgotPassword": "هل نسيت كلمة السر",
+  "forgotPasswordMsg":
+      "أدخل بريدك الإلكتروني أدناه لتلقي تعليمات إعادة تعيين كلمة المرور الخاصة بك",
+  "haveAccount": "هل لديك حساب بالفعل؟ سجل دخولك",
+  "login": "تسجيل دخول",
+  "OurServices": "خدماتنا",
+  "topRated": "أعلى التقييمات",
+  "seeMore": "رؤية المزيد",
+  "total": "المجموع",
+  "notRegisterd": "لم تسجل بعد؟",
+  "loginError": "البريد الإلكتروني / كلمة المرور التي أدخلتها غير صحيحة.",
+  "create an account": "إنشاء حساب",
+  "program":"برنامج",
+  "Self Assessment": "تقييم ذاتى",
+  "Continue": "استمرار",
+  "resendCode": "إعادة إرسال الرمز",
+
+
+
+
+
+
+
+
+  "deleteFromCartMsg": "هل انت متأكد من حذف هذا المنتج من سلة مشترياتك؟",
+  "delete": "حذف",
+  "confirm": "تأكيد",
+  "createAccount": "عمل حساب",
+  "MyProducts": "منتجاتي",
+  "Orders": "الطلبات",
+  "AccountInfo": "معلومات الحساب",
+  "EnterName": "قم بادخال اسمك",
+  "EnterPhone": "قم بادخال رقم الهاتف",
+  "MyAddress": "عنواني",
+  "Address:": "العنوان:",
+  "Country:": "الدولة:",
+  "City:": "المدينة:",
+  "Suburb:": "الضاحية:",
+  "Neighbourhood:": "الحي:",
+  "Street:": "الشارع:",
+  "emptyProducts": "لا توجد منتجات للعرض",
+  "AddNewProduct": "اضافة منتج جديد",
+  "productNameAr": "اسم المنتج باللغة العربية",
+  "ProductNameEn": "اسم المنتج باللغة الانجليزية",
+  "descriptionAr": "وصف المنتج باللغة العربية",
+  "descriptionEn": "وصف المنتج باللغة الانجليزية",
+  "Productprice": "سعر المنتج",
+  "UploadImage": "تحميل الصورة",
+  "AddModifiers": "اضافة معدّلات",
+  "Submit": "اضافة",
+  "AddedSuccess": "تم الاضافة بنجاح",
+  "Remove": "حذف",
+  "Nameofmodifier": "اسم المعدّلات",
+  "counter": "عداد",
+  "select": "تحديد",
+  "Category": "الفئة",
+  "MinValue": "اقل قيمة",
+  "MaxValue": "اعلى قيمة",
+  "Name": "الاسم",
+  "Price": "السعر",
+  "SubCategory": "الفئة الفرعية",
+  "EditProduct": "تعديل المنتج",
+  "ChangeProductImage": "تعديل صورة المنتج",
+  "EditNameAr": "تعديل الاسم باللغة العربية",
+  "EditNameEn": "تعديل الاسم باللغة الانجليزية",
+  "EditdescriptionAr": "تعديل الوصف باللغة العربية",
+  "EditdescriptionEn": "تعديل الوصف باللغة الانجليزية",
+  "Editprice": "تعديل السعر",
+  "deleteProduct": "حذف المنتج",
+  "deleteProductAlert": "هل انت متأكد من حذف المنتج؟",
+  "editSucces": "تم التعديل ينجاح",
+  "IsOnSale": "هل يوجد خصم على سعر المنتج؟",
+  "Published": "نشر المنتج",
+  "discountPrice": "سعر المنتج بعد الخصم",
+  "discount": "خصم",
+  "LoadingImage": "جاري تحميل الصورة",
+  "AddtoCart": "اضف الى سلتك",
+  "Addanote": "اضافة ملاحظة",
+  "Optional": "(اختياري)",
+  "AddRequests": "اضف اي طلبات خاصة..",
+  "search": "بحث",
+  "searchMsg": "ابحث عن المنتج الذي تريده ...",
+  "AddnewProducts": "اضافة منتج جديد",
+  "Subscribe": "اشترك",
+  "popular": "الاكثر مبيعاً",
+  "send": "إرسال",
+  "pleaseCheckYourEmail":
+      "يرجى التحقق من بريدك الإلكتروني للحصول على تعليمات إعادة تعيين كلمة المرور.",
+  "privacyPolicy": "سياسة خاصة",
+  "privacyPolicyError": "يجب عليك قبول الشروط ",
+  "IAgree": "أوافق",
+  "terms&Condition": "الشروط والاحكام",
+  "privacyTermMessage": "بتسجيل الدخول ، أنت توافق على",
+  "and": " و ",
+  "emailMe": " أنا أحب العروض والخصومات. راسلني!",
+  "Categories": "الاقسام",
+  "HelpSupport": "المساعدة و الدعم",
+  "Deals&Offers": "الصفقات والعروض",
+  "WarrantyRegistration": "تسجيل الكفالة",
+  "Catalogue": "فهرس",
+  "aboutUs": "معلومات عنا ",
+  "returnPolicy": "سياسة العائدات",
+  "FAQs": "أسئلة وأجوبة",
+  "securePayments": "المدفوعات الآمنة",
+  "filter": "فرز",
+  "results": "النتائج",
+  "viewMore": "عرض المزيد",
+  "modelNumber": "رقم الموديل",
+  "jod": "د.أ",
+  "availability": "التوفر",
+  "chooseYourColor": "اختر اللون",
+  "learnMore": "اعرف المزيد",
+  "brand": "العلامات التجارية",
+  "loyaltyPoints": "نقاط الولاء",
+  "youCurrentlyHave": "أنت حاليا تملك",
+  "loyaltyPointsMsg":
+      "يمكنك استبدال نقاطك عند التسوق عبر الإنترنت من عربة التسوق",
+  "redeemMsg":
+      "إذا كنت ترغب في استبدال نقاطك في أحد متاجر مجموعة DADA ، يمكنك استخدام ",
+  "thisCoupon": "رمز القسيمة هذا",
+  "expiryDate": "تاريخ انتهاء الصلاحية: ",
+  "registeringWarrantyMsg":
+      "إذا كنت قد اشتريت بالفعل منتجًا من أحد متاجرنا ، فيمكنك كسب نقطة الولاء الخاصة بك عن طريق ",
+  "registeringWarranty": " تسجيل الضمان ",
+  "forYourPurchasedProduct": "لمنتجك الذي اشتريته",
+  "RegisterWarranty": "سجل ضمان المنتج الخاص بك",
+  "serialNumber": "الرقم التسلسلي",
+  "PleaseAttachPhotoOfTheProblem": "يرجى إرفاق صورة للمشكلة",
+  "attachFile": "إرفاق ملف",
+  "registerWarranty": "تسجيل الضمان",
+  "technicalSupportMsg":
+      "نحن هنا لمساعدتك إذا كنت بحاجة إلى صيانة أحد منتجاتنا. سنرسل فريقًا من الخبراء للتأكد من أن منتجك جيد مثل الجديد.",
+  "fillMaintenanceField": "يرجى تعبئة النموذج أدناه لطلب الصيانة:",
+  "dontHaveSerialNumber": "ليس لديك الرقم التسلسلي لمنتجك؟",
+  "PleaseAttachPhotoOfTheWarranty": "يرجى إرفاق صورة الضمان",
+  "personalInfo": "معلومات شخصية",
+  "deliveryAddress": "عنوان التسليم",
+  "nearestLandmark": "أقرب معلم",
+  "requestMaintenance": "طلب الصيانة",
+  "problem": "المشكلة",
+  "Governate": "المحافظة",
+  "myCart": "عربة التسوق",
+  "summary": "الملخص",
+  "cartSubtotal": "مجموع سلة التسوق",
+  "tax": "ضريبة",
+  "deliveryFee": "رسوم التوصيل",
+  "couponDiscount": "خصم القسيمة",
+  "CHECKOUT": "الدفع",
+  "defaultCreditCard": "بطاقة الائتمان الافتراضية",
+  "defaultShippingAddress": "عنوان الشحن الافتراضي",
+  "inStock": "متوفر",
+  "outOfStock": "غير متوفر",
+  "editProfile": "تعديل الملف الشخصي",
+  "saveChanges": "حفظ التغيرات",
+  "cancel": "إلغاء",
+  "canceled": "ملغي",
+
+  "cancelEditMsg": "هل انت متاكد انك تريد ان تغادر؟ ستفقد تعديلاتك",
+  "back": "العودة",
+  "yes": "نعم",
+  "wantToReceiveEmail":
+      "أرغب في تلقي رسائل بريد إلكتروني تسويقية من مجموعة DADA",
+  "wishlist": "قائمتي المفضلة",
+  "enterCode": "أدحل الرمز",
+  "apply": "تطبيق",
+  "applyPromotionCode": "تطبيق رمز الخصم",
+  "continueShopping": "اكمل التسوق",
+  "addAllToWishList": "أضف الكل إلى قائمة المفضلة",
+  "hotOffers": "العروض المميزة",
+  "recommendedProducts": "المنتجات الموصى بها",
+  "shopByCategory": "تسوق حسب الاقسام",
+  "color": "اللون",
+  "rateQuestion": "كيف تقيم هذا المنتج؟",
+  "reviewProduct": "مراجعة المنتج",
+  "writeYourReviewHere": "اكتب رأيك هنا ...",
+  "leaveReview": "اترك مراجعة",
+  "reviewSubmitted": "تم تقديم رأيك",
+  "thankyou": "شكرا لك!",
+  "viewReview": "مشاهدة التقييم",
+  "writeReview": "أكتب مراجعة",
+  "youMightAlsoLike": "قد يعجبك أيضًا",
+  "myAccount": "حسابي",
+  "myOrders": "طلباتي",
+  "orderHistory": "سجل الطلبات",
+  "downloadTaxInvoice": "تنزيل فاتورة ضريبية",
+  "downloadFile": "تحميل الملف",
+
+  "orderReceived": "تم استلام الطلب",
+  "reportAProblem": "الإبلاغ عن مشكلة",
+  "orderPlaced": "تم تقديم الطلب",
+  "orderPacked": "تم تعبأة الطلب",
+  "outForDelivery": "خارج للتوصيل",
+  "emptyCart": "عربة التسوق فارغة!",
+  "emptyWishList": "قائمة رغباتكم فارغة!",
+  "exploreTheProducts": "استكشف المنتجات",
+  "emptyCartMsg": "ابدأ بإضافة العناصر المفضلة لديك إلى عربة التسوق الآن",
+  "emptyWishListMsg": "ابدأ بإضافة العناصر المفضلة لديك إلى قائمة أمنياتك الآن",
+  "quantity": "الكمية:",
+  "addressDetails": "تفاصيل العنوان",
+  "area": "المنطقة",
+  "enterYourArea": "أدخل المنطقة الخاصة بك",
+  "streetName": "اسم الشارع",
+  "enterStreetName": "أدخل اسم الشارع الخاص بك",
+  "buildingNumber": "رقم المبنى",
+  "enterBuildingNumber": "أدخل رقم المبنى الخاص بك",
+  "entermodelNumber": "أدخل رقم الموديل الخاص بك",
+  "dateOfPurchase": "تاريخ الشراء",
+  "userInformations": "معلومات المستخدم",
+  "productInformations": "معلومات حول المنتج",
+  "branchName": "اسم الفرع",
+  "enterBranchName": "أدخل اسم الفرع",
+  "attachPictureOfInvoice": "إرفاق صورة الفاتورة",
+  "productImage": "صورة المنتج",
+  "tellUsWhatIsTheProblem": "اخبرنا ما هي المشكلة",
+  "addComment": "أضف تعليق",
+  "dontReceiveOrder": "لم أستلم طلبي",
+  "productIsDamaged": "المنتج تالف",
+  "notWhatIOrdered": "ليس ما طلبته",
+  "qualityBelowExpectations": "الجودة أقل من التوقعات",
+  "other": "أخرى (يرجى التحديد)",
+  "OTHER": "أخرى",
+  "choose": "إختر",
+  "SelectDefaultAddress": "حدده باعتباره العنوان الافتراضي",
+  "deleteAddressMsg": "هل أنت متأكد من رغبتك في حذف هذا العنوان؟",
+  "productDetails": "تفاصيل المنتج",
+  "customerRatings": "تقييمات العملاء",
+  "customerReviews": "آراء العملاء",
+  "viewOnMap": "عرض على الخريطة",
+  "deletItemFromCart":
+      "هل أنت متأكد أنك تريد حذف هذا العنصر من قائمة الطلبات الخاصة بك",
+  "OpeningHours": "ساعات العمل",
+  "Weekends": "نهاية الاسبوع",
+  "Weekdays": "أيام الدوام",
+  "stars": "نجوم ",
+  "star": "نجمة ",
+  "SeeMoreReviews": "رؤية المزيد من التعليقات",
+  "SeeLess": "رؤية أقل",
+  "invalidCodemsg": "الرمز الذي أدخلته غير صالح ، يرجى التحقق مرة أخرى",
+  "noProblemChoosenmsg": "تأكد من اختيار المشكلة قبل تقديم الطلب",
+  "ReorderProduct": "أعد طلب المنتج",
+  "TheProduct": "المنتج",
+  "YourRequestHasBeenReceived": "تم استلام طلبك ",
+  "MaintenanceReceivedmsg": "سيتصل بك الفريق المختص لمتابعة طلبك",
+  "UploadError": "حدث خطأ أثناء تحميل الملف ، يرجى المحاولة مرة أخرى",
+  "Maintenance": "صيانة",
+  "Stores": "المتاجر",
+  "SavedForLater": "تم حفظها",
+  "Community": "تواصل اجتماعي",
+  "AddNewPost": "اضافة منشور جديد",
+  "HealthcareLeadershipAcademy": "أكاديمية القيادة الصحية",
+  "landingMsg": "تم إنشاء أكاديمية قيادة الرعاية الصحية (HLA) من قبل الهيئة السعودية للتخصصات الصحية في عام 2017 مع التركيز على تطوير القادة على جميع المستويات داخل نظام الرعاية الصحية وتقديم خبرات تعليمية على مستوى عالمي لدعم تحول نظام الرعاية الصحية السعودي.",
+  "topOrganizationOnHimam": "أهم المنظمات على موقع همم",
+  "reImaginTitle": "إعادة تخيّل الرعاية الصحية والقيادة والتعليم",
+  "reImaginMsg": "تقدر أكاديمية القيادة في الرعاية الصحية إمكانية الوصول والإنصاف وتعتقد أن جميع المتخصصين في الرعاية الصحية يجب أن يمتلكوا الوسائل للتعرف على الأنشطة القيادية والمشاركة فيها ؛ على أي مستوى وفي أي وقت.",
+  "OurVision":"رؤيتنا",
+  "OurVisionMsg":"قيادة مسؤولة عن رعاية صحية استثنائية في المملكة العربية السعودية وخارجها",
+  "OurMission":"مهمتنا",
+  "OurMissionMsg":"إطلاق العنان لإمكانات القيادة الفردية والجماعية لتحقيق صحة ورعاية أفضل",
+  "samiInfo":"د. سامي يوسف",
+  "samiTitle":"الرئيس التنفيذي ، أكاديمية قيادة الرعاية الصحية",
+  "samiMsg":"نحن حريصون دائمًا على تطوير شراكات جديدة وأفكار جديدة من شأنها تعزيز تنمية القيادة وتحقيق التأثير المنشود على خدمات الرعاية الصحية ، وجعل برنامج التحول في الرعاية الصحية نجاحًا باهرًا. يسعدني أن أدعوك لاستكشاف برنامجنا والاتصال بنا لتحديد أفضل الحلول والخدمات التي نقدمها لاحتياجاتك.",
+
+
+
+
+
+
+
+  "HORIZONSPROGRAM":"برنامج\nهورايزونز",
+  "LEADERSHIPWEBINARS":"حلقات\nالويب القيادية",
+  "LEADERSHIPCIRCLES":"دورات\nالقيادة",
+  "FUTUREHEALTHLEADERSFORUM":"منتدى قادة\nالصحة في المستقبل",
+
+  "HORIZONSPROGRAMDesc":"رحلة تنمية القيادة لمجموعة محددة من متدربى الدراسات العليا",
+  "LEADERSHIPWEBINARSDec":"سلسلة ندوات عبر الإنترنت متاحة لجميع المتدربين بعد التخرج من جميع التخصصات الصحية",
+  "LEADERSHIPCIRCLESDec":"حلقات نقاش ميسرة متاحة لكبار السكان",
+  "FUTUREHEALTHLEADERSFORUMDec":"منتدى القيادة الافتراضي متاح لجميع متدربي الدراسات العليا من جميع التخصصات الصحية",
+  "OUREDUCATIONALTRACKS":"مساراتنا التعليمية",
+  "WhyHealthcareLeadershipAcademy":"لماذا أكاديمية القيادة الصحية؟",
+  "ThefirstHealthcareLeadershipAcademyintheregion":"أول أكاديمية لقيادة الرعاية الصحية في المنطقة",
+  "ConductactivitiesalloverSaudiandtheregion":"القيام بأنشطة في جميع أنحاء المملكة العربية السعودية والمنطقة",
+  "Collaborationswithrenownedleadershipinstitutions":"التعاون مع المؤسسات القيادية المشهورة",
+  "Programscoverallleadershiplevels":"تغطي البرامج جميع المستويات القيادية",
+  "Programsusedifferentlearningmethodologies":"تستخدم البرامج منهجيات تعلم مختلفة",
+  "Vision2030healthcaretransformationfocused":"تركز رؤية 2030 للرعاية الصحية على التحول",
+  "BilingualPrograms":"برامج ثنائية اللغة",
+  "Localcontent":"المحتوى المحلي",
+  "Programscustomizationcapabilities":"قدرات تخصيص البرامج",
+  "mulhemCoverMsg":"برنامج وطني متكامل مقدم من الشؤون الأكاديمية وأكاديمية القيادة الصحية بالهيئة السعودية للتخصصات الصحية ، ويتضمن حزمة تدريبية مخصصة لدعم المتدربين في برامج الهيئة بالمهارات والكفاءات القيادية اللازمة.",
+  "mulhemTitle":"لتطوير قادة صحيين ناشئين",
+  "HealthcareTitle":"أكاديمية القيادة الصحية القيمة الأساسية",
+  "collaborationMsg":"نتواصل ونعمل بكفاءة مع شركائنا وعبر نظام الرعاية الصحية.",
+  "innovationMsg":"نطبق مناهج إبداعية ومصممة خصيصًا لتلبية احتياجات تطوير القيادة.",
+  "motivationMsg":"نحن نلهم قادة الصحة الأفضل مديري الرعاية والفرق ومقدمي الخدمات ليصبحوا قادة أفضل",
+  "impactMsg":"نحن نسعى جاهدين لإنتاج إنجازات قيادية قابلة للقياس.",
+  "HemamBusiness":"اعمال همم",
+  "Careers":"وظائف",
+  "TeachOnHemam":"التدريس على همم",
+  "Collaboration":"التعاون",
+  "Innovation":"الابتكار",
+  "Motivation":"التحفيز",
+  "Impact":"التأثير",
+  "favorites":"المفضلة",
+  "NOTIFICATIONS":"إشعارات",
+  "emptyNotification":"ليس لديك إشعارات حتى الآن",
+
+  "calendar":"التقويم",
+  "AdminPinnedThisPost":"ثبت هذا المنشور",
+  "pin":"تثبيت",
+  "unpin":"الغاء التثبيت",
+  "comment":"تعليق",
+  "comments":"تعليقات",
+  "like":"أعجبني",
+  "likes":"الإعجابات",
+  "Reply":"رد",
+  "replies":"من الردود",
+
+  "WriteComment":"أكتب تعليقا...",
+  "Members":"أعضاء",
+  "Details":"تفاصيل",
+  "AboutThisGroup":"حول هذه المجموعة",
+  "Admins":"المشرفون",
+  "Groups":"المجموعات",
+  "ViewAll":"مشاهدة الكل",
+  "ViewLess":"عرض أقل",
+  "UpcomingEvents":"فعاليات قادمة",
+  "Enrollments":"عدد المسجلين",
+  "RecentMedia":"الوسائط الحديثة",
+  "eventStartMsg1":"سيبدأ خلال ساعة واحدة.",
+  "checkIt":"تحقق منه",
+  "eventStartMsg2":"الآن ولا تفوته!",
+  "NoPostAvailable":"لا توجد مشاركات متاحة.",
+  "NoGroupAvailable":"لا توجد مجموعة متاحة",
+  "events": "الفعاليات",
+  "eventFee": "الرسوم",
+  "sar": "ريال",
+  "addtofavorites": "أضف الى المفضلة",
+  "enroll": "سجل",
+  "overview": "الفعالية",
+  "aboutThisEvent": "معلومات الفعالية",
+  "otherEventsByTheGroup": "فعاليات أخرى لنفس المجموعة",
+  "activity": "المشاركات",
+  "allActivities": "جميع المشاركات",
+  "savedPosts": "المنشورات المحفوظة",
+  "learning": "تعلم",
+  "coaching": "تدريب",
+  "coaches": "المدربين",
+
+  "comingSoon": "قريباً على المنصة",
+  "UnderConstrcutionSetence": "سيتم اطلاق هذه الصفحة قريباً",
+  "Taughtby": "تم تدريسه من قبل",
+  "of": "من",
+  "hourEvent": "ساعة",
+  "EventOverview": "نظرة عامة حول الحدث",
+  "Aboutthisevent": "عن هذه الفعالية",
+  "host": "المضيف",
+  "Minutes": "دقيقة",
+  "Topic": "موضوع",
+  "WhatThisEventWillDiscuss": "ماذا سيناقش هذا الحدث",
+  "OtherEventsByYourGroup": "فعاليات أخرى من قبل مجموعتك",
+  "enrolled": "مسجل",
+  "removefromfavorites": "حذف من المفضلة",
+  "Instructors": "المدربين",
+  "Edit Account": "تعديل الحساب",
+  "First Name": "الاسم الاول",
+  "Last Name": "الاسم الاخير",
+  "Occupation": "الوظيفة",
+  "Date of Birth": "تاريخ الولادة",
+  "Gender": "الجنس",
+  "MALE": "ذكر",
+  "FEMALE": "أنثى",
+  "title": "اللقب",
+  "location": "الموقع",
+  "Location": "الموقع",
+  "Brief": "نبذة عنك",
+  "TO DEVELOP EMERGING HEALTH LEADERS": "لتطوير قادة صحيين ناشئين",
+  "mulhemMsg": "برنامج وطني متكامل مقدم من الشؤون الأكاديمية وأكاديمية القيادة الصحية بالهيئة السعودية للتخصصات الصحية ، ويتضمن حزمة تدريبية مخصصة لدعم المتدربين في برامج الهيئة بالمهارات والكفاءات القيادية اللازمة.",
+  "Online":"عبر الانترنت",
+  "Face To Face":"وجها لوجه",
+  "f2f":"وجها لوجه",
+
+
+  "hour":"ساعة",
+  "minutes":"دقائق",
+  "Add New Event":"إضافة حدث جديد",
+  "Event Details":"تفاصيل الحدث",
+  "Event Type":"نوع الحدث",
+  "Event Name":"اسم الحدث",
+  "Event Language":"لغة الحدث",
+  "Event Date & Time":"تاريخ ووقت الحدث",
+  "One day event":"حدث يوم واحد",
+  "Event over multiple days":"حدث على مدار أيام متعددة",
+  "Event Date":"تاريخ الحدث",
+  "From":"من",
+  "To":"إلى",
+  "About This Event":"حول هذا الحدث",
+  "Please write the description of your event":"يرجى كتابة وصف الحدث الخاص بك",
+  "publishing":"نشر",
+  "What Will this Event Discuss":"ماذا سيناقش هذا الحدث",
+  "Section":"الجزء",
+  "Section Title":"عنوان القسم",
+  "Please enter section title":"الرجاء إدخال عنوان القسم",
+  "Discussion Duration":"مدة المناقشة",
+  "About This Section":"حول هذا القسم",
+  "Please write this section’s description":"يرجى كتابة وصف هذا القسم",
+  "Main points of discussion":"النقاط الرئيسية للنقاش",
+  "Add section":"إضافة قسم",
+  "Share Event to":"مشاركة الحدث في",
+  "Say something about this event":"قل شيئا عن هذا الحدث",
+  "Share Event":"نشر الحدث",
+  "pendingRequests":"الطلبات المعلقة",
+  "You have":"لديك",
+  "pending join requests":"طلبات الانضمام في انتظار المراجعة",
+  "pending":"قيد الانتظار",
+
+  "Accept All":"قبول الكل",
+  "Write your post here":"اكتب منشورك هنا",
+  "Add Event":"إضافة حدث",
+  "Event Start Date":"تاريخ بداية الفعالية",
+  "Event End Date":"تاريخ انتهاء الفعالية",
+  "Duration In Minutes":"المدة بالدقائق",
+
+  "No Favorites yet":"لم يتم إضافة أي عنصر إلى المفضلة",
+  "What's on your mind":"ما الذي يدور في ذهنك", 
+  "create post":"انشاء منشور",
+  "Add Photos":"اضف صور",
+  "Add Photo":"اضف صورة",
+  "or drag and drop":"أو قم بالسحب والإفلات",
+  "size":"الحجم",
+  "Interested":"مهتم",
+  "Going":"ذاهب",
+  "Not Going":"لست ذاهبا",
+  "Post":"نشر",
+  "Invite":"دعوة",
+  "Invite Members":"دعوة أعضاء",
+  "about":"حول",
+  "No Pending Requests":"لا توجد طلبات معلقة",
+  "See All": "رؤية جميع",
+  "View more comments": "عرض المزيد من التعليقات",
+  "Free": "مجانا",
+  "No upcoming events": "ليست هناك أحداث قادمة",
+  "recentActivities": "أحدث الأنشطة",
+  "comingSoonMsg": "تجربة تعليمية مصممة خصيصًا لك",
+  "emptySavedPost": "ليس لديك أي منشورات محفوظة حتى الآن",
+  "emptyActivity": "ليس لديك أي أنشطة حتى الآن",
+  "Library": "المكتبة",
+  "E-Learning": "التعلم الالكتروني",
+  "All Courses": "جميع الدورات",
+  "Sort By": "ترتيب حسب",
+  "sort": "ترتيب حسب",
+
+  "noCourseMsg": "لا توجد دورات تدريبية متاحة",
+  "noCategoriesMsg": "لا توجد فئات متاحة",
+  "topCourses": "أفضل الدورات",
+  "aboutThisCourse": "حول هذه الدورة",
+  "WhatWillYouLearn": "ما الذي ستتعلمه؟",
+  "CourseSyllabus": "منهج الدورة",
+  "recommendedCourses": "الدورات الموصى بها",
+  "myCourses": "دوراتي",
+  "myEvents": "نشاطاتي",
+  "lessDetails": "تفاصيل أقل",
+  "moreDetails": "تفاصيل أكثر",
+  "Content": "المحتوى",
+  "More": "المزيد",
+  "Files": "الملفات",
+  "Overview": "نظرة عامة",
+  "openFile": "فتح الملف",
+  "openLink": "فتح الرابط",
+
+  "resetPasswordMsg": "تحقق من بريدك الإلكتروني بحثًا عن رابط لإعادة تعيين كلمة المرور الخاصة بك.",
+  "Saved": "تم الحفظ",
+  "Save": "حفظ",
+  "unSave": "الغاء الحفظ",
+  "Courses": "الدورات",
+  "verifyEmail": "قم بتأكيد بريدك الألكتروني",
+  "verify": "تأكيد",
+  "verifyEmailDesc": "الرجاء إدخال الرمز المرسل إلى عنوان البريد الإلكتروني الخاص بك",
+  "openDocument": "افتح المستند",
+  "markAsComplete": "اكتمل",
+  "Completed": "مكتمل",
+  "completedSubsectionMsg": "لقد أنهيت هذا القسم بالفعل",
+  "noFileMsg": "لا توجد ملفات مرفقة لهذا القسم الفرعي",
+  "noSubsectionSelected": "الرجاء تحديد قسم فرعي أولا",
+  "added": "أضيف",
+  "Video": "فيديو",
+  "Image": "صورة",
+  "Add photo or video": "أضف صورة أو فيديو",
+  "Event Topics": "مواضيع الحدث",
+  "Accepted": "مقبول",
+  "Rejected": "مرفوض",
+  "Suggested for you": "مقترحة لك",
+  "Groups you might be interested in": "مجموعات قد تكون مهتمًا بها.",
+  "Join group": "إنضم للمجموعة",
+  "Join meeting": "أنضم إلى الأجتماع",
+  "invalidPhoneNumber": "رقم الهاتف غير صحيح",
+  "Joined": "تم الانضمام",
+  "free": "مجانا",
+  "viewAll": "عرض الكل",
+  "hybrid": "هجين",
+  "online":"عبر الانترنت",
+  "onSite": "بالموقع",
+  "selfPaced": "ذاتي",
+  "reset": "إعادة",
+  "maximumPrice": "السعر الأقصى",
+  "minimumPrice": "سعر الحد الأدنى",
+  "createdBy": "انشأ من قبل",
+  "curriculum": "المنهاج الدراسي",
+  "sections": "أقسام",
+  "hours": "ساعات",
+  "h": "س",
+  "totalLength": "الطول الكلي",
+  "prerequisites": "المتطلبات الأساسية",
+  "gotoCourse": "اذهب إلى الدورة",
+  "publicGroup": "مجموعة عامة",
+  "privateGroup": "مجموعة خاصة",
+  "leaveGroup": "مغادرة المجموعة",
+  "leaveGroupMsg": "هل ترغب في مغادرة",
+  "from": "من",
+  "to": "إلى",
+  "guests": "ضيف",
+  "interested": "مهتم",
+  "urlError": "لا يمكن فتح عنوان الموقع",
+  "meetingURL": "رابط الاجتماع",
+  "eventLocation": "موقع الحدث",
+  "enterGroup": "أدخل المجموعة",
+  "idNumber": "رقم الهوية",
+  "institute": "المعهد",
+  "yearsOfExperience": "سنوات الخبرة",
+  "edit": "تعديل",
+  "myResources": "الموارد الخاصة بي",
+  "purchases": "المشتريات",
+  "lectureLink": "رابط المحاضرة",
+  "description": "الوصف",
+
+  "courseCertificate": "شهادة الدورة",
+  "discussionBoard": "مجلس المناقشة",
+  "announcements": "الإعلانات",
+  "openQuiz": "افتح الاختبار",
+  "generalInformation": "معلومات عامة",
+  "timeLimit": "المهلة الزمنية",
+  "attemptLimit": "حد المحاولة",
+  "direction": "الاتجاه",
+  "twoDirection": "اتجاهين",
+  "oneDirection": "اتجاه واحد",
+  "startExam": "ابدأ الامتحان",
+  "continueExam": "استمر في الامتحان",
+
+  "checkLink": "ملاحظة: يرجى التحقق من الرابط في قسم المزيد",
+  "checkLectureLink": "ملاحظة: يرجى التحقق من رابط المحاضرة في قسم المزيد",
+  "checkLocation": "ملاحظة: يرجى التحقق من الموقع في قسم المزيد",
+  "checkDescription": "ملاحظة: يرجى التحقق من الوصف الموجود في قسم المزيد",
+  "lectureLocation": "مكان المحاضرة",
+  "allLectures": "كل المحاضرات",
+  "thisLecture": "هذه المحاضرة",
+  "noDiscussionYet": "انقر على '+' لإجراء أول مناقشة لك",
+  "selectSectionFirst": "من فضلك تأكد من اختيار المحاضرة أولا",
+  "disabeldDiscussionBoard": "لوحة المناقشة هذه غير مفعلة",
+  "noAnnouncements": "لم يتم نشر أي إعلانات حتى الآن",
+  "noAnnouncementsDescription": "لم يقم المدرب بإضافة أي إعلانات إلى هذه الدورة التدريبية حتى الآن. تُستخدم الإعلانات لإبلاغك بالتحديثات أو الإضافات إلى الدورة التدريبية",
+  "next": "التالي",
+  "question": "سؤال",
+  "points": "نقاط",
+  "point": "نقطة",
+  "noEventsYet": "ليس لديك أحداث بعد",
+  "noCoursesYet": "لم تسجل في أي دورات بعد",
+  "share": "مشاركة",
+  "completedOn": "اكتمل في",
+  "myCertificates": "شهاداتي",
+  "scanner": "ماسح ضوئي",
+  "scannerMsg": "امسح رمز QR لحضور المحاضرات",
+  "scan": "مسح",
+  "eTicketsScanner": "الماسح الإلكتروني للتذاكر",
+  "selectOne": "اختر واحد",
+  "noLimit": "غير محدد",
+  "openAssignment": "افتح الواجب",
+  "grade": "الدرجة",
+  "dueDate": "الموعد النهائي للتسليم",
+  "isCountedTowardsFinalGradeMsg": "لن يتم احتساب درجة هذا الواجب في التقدير النهائي",
+  "mySubmission": "تسليمي",
+  "addSubmission": "أضف تسليم",
+  "availableTo": "متاح لـ",
+  "chooseFileToSubmit": "اختر ملف للتسليم",
+  "fileSubmission": "الملفات المرفقة",
+  "chooseFile": "اختر ملف",
+  "note": "ملاحظة",
+  "nullAnswerMsg": "لا يمكنك ترك الإجابة فارغة",
+  "finishingQuizMsg": "عمل عظيم! أنت جاهز للانتقال إلى المحاضرة التالية.",
+  "yourScore": "درجتك",
+  "outOf": "من",
+  "submitQuiz": "تسليم الاختبار",
+  "quizLockedDateMsg": "سيتم قفل الاختبار بعد تاريخ",
+  "quizAvailableDateMsg": "لن يكون الاختبار متاحًا حتى تاريخ",
+  "expiredExamMsg": "انتهاء موعد الاختبار ، لا يمكنك محاولة إجراء هذا الاختبار بعد تاريخ  ",
+  "reviewExamFeedback": "مراجعة ملاحظات الامتحان",
+  "correct": "صحيح" ,
+  "wrong": "خطأ" ,
+  "correctAnswer": "الإجابة الصحيحة" ,
+  "elearningHomeMsg": "إطلاق العنان لإمكانات القيادة الفردية والجماعية لتحقيق صحة ورعاية أفضل",
+  "startYourNewJourny": "ابدأ\nرحلتك الجديدة",
+  "hlaAccredditedBy": "تم اعتماد أكاديمية قيادة الرعاية الصحية من قبل" ,
+  "view": "عرض",
+  "moreReplies": "ردود أخرى",
+  "changePassword": "تغيير كلمة المرور",
+  "currentPassword": "كلمة المرور الحالية",
+  "newPassword": "كلمة المرور الجديدة",
+  "confirmNewPassword": "تأكيد كلمة المرور الجديدة",
+  "gotoEvent": "انتقل إلى النشاط",
+  "gotoTasks": "انتقل إلى المهمة",
+  "gotoSession": "انتقل إلى الجلسة",
+  "emptyCalendar": "لا يوجد لديك أي أحداث في التقويم",
+  "all": "الكل",
+  "questions": "سؤال",
+  "numberOfQuestions": "عدد الأسئلة",
+  "attendance": "الحضور",
+  "attendanceDate": "تاريخ الحضور",
+  "attend": "حضور",
+  "openLearningMaterial": "افتح مادة التعلم",
+  "noAttendance": "لم يتم أخذ أي حضور",
+  "noCertificates": "ليس لديك أي شهادات حتى الآن",
+  "somethingWentWrong": "لقد حدث خطأ ما",
+  "tryAgain": "حاول مجددا",
+  "learningPath": "مسار التعلم",
+  "Event": " حدث",
+  "Sessions": "جلسات",
+  "deleteAccount": "حذف حسابي",
+  "deleteAccountMsg": "نأسف لرؤيتك تغادر Himam. يرجى إخبارنا بسبب مغادرتك حتى نتمكن من تحسين خدماتنا.",
+  "deleteAccountAlertMsg": "هل انت متأكد انك تريد حذف حسابك؟ هذا العمل لا رجوع فيه. سيتم حذف جميع البيانات الخاصة بك بشكل دائم.",
+  "manageMyAccount": "إدارة حسابي",
+  "settings": "الإعدادات",
+
+  "chooseYourOrganization": "اختر مؤسستك",
+  "organization": "المؤسسة",
+  "instructions": "إرشادات",
+  "checkedByAdminMsg": "لا يمكن التحقق من هذا إلا من قبل المسؤول أو إكماله بواسطة الدورة التدريبية",
+  "noCoursesMsg": "يبدو أن ليس لديك أي دورات في الوقت الحالي",
+  "bonus": "إضافية",
+  "grading": "العلامات",
+  "name": "الاسم",
+  "maxPoints": "الحد الأقصى للنقاط",
+  "status": "الحالة",
+  "locked": "مغلق",
+  "open": "مفتوح",
+  "unlockDate": "تاريخ الفتح",
+  "lockDate": "تاريخ الإغلاق",
+  "discussions": "المناقشات",
+  "read": "قُرِئت",
+  "anonymous": "مجهول",
+  "singlePage": "صفحة واحدة",
+
+  "MOST POPULAR": "الأكثر شعبية",
+  "MOST RECENT": "الأحدث",
+  "HIGHEST PRICE": "أعلى سعر",
+  "LOWEST PRICE": "أقل سعر",
+  "MOST RECENT DESC": "الإفتراضي",
+  "viewLinkedinProfile": "حساب Linkedin",
+  "aboutCoach": "حول المدرب",
+  "certifications": "التراخيص والشهادات",
+  "issuedDate": "تاريخ الإصدار",
+  "education": "التعليم",
+  "experience": "الخبرة",
+  "present": "الحالي",
+  "chemistrySession": "جلسة تعارفية",
+  "selectTime": "اختر الوقت",
+  "selectDate": "اختر التاريخ",
+
+  "confirmSession": "تأكيد الجلسة",
+
+  "availableChemistrySession": "جلسات التعارف المتاحة",
+  "noAvailableSession": "لا توجد جلسات تعارفية متاحة حاليا",
+  "confirmed": "تم التأكيد",
+  "bookingConfirmd": "تم تأكيد حجزك",
+  "bookingCanceled": "تم إلغاء حجزك",
+
+  "nullSlotMsg": "يرجى تحديد فترة زمنية",
+  "copiedMsg": "تم النسخ",
+  "sessionId": "رقم الجلسة",
+  "bookingSessionId": "رقم حجز الجلسة",
+  "cancelSessionMsg": "يمكن للمدرب إلغاء الجلسة. إذا ألغى المدرب الجلسة ، فسيتم إخطارك وسيتم إلغاء الجلسة تلقائيًا.",
+  "cancelSession": "إلغاء الجلسة",
+  "cancelSessionAlert": "هل أنت متأكد من إلغاء الجلسة؟",
+  "sessionCanceledByUser": "تم إلغاء الجلسة بواسطتك",
+  "sessionCanceledByCoach": "تم إلغاء الجلسة بواسطة المدرب",
+  "chemistrySessionNote": "هذه الجلسة فرصة للتعرف على المدرب %s ، لتقرر ما إذا كان الخيار الصحيح لك!",
+  "durationInMin": "المدة: %s دقيقة",
+  "myBookedSession": "جلساتي المحجوزة",
+  "aboutApp": "حول التطبيق",
+  "done": "تم",
+  "lmsBannerMsg": "اكتشف الدورات الجديدة على منصتنا! يمكنك الوصول إلى مجموعة كبيرة من الموضوعات التي يتم تدريسها من قبل مدربين ذوي خبرة ، مع التعلم الذاتي ومحتوى الوسائط المتعددة والاختبارات والمزيد.",
+  "noBookedSession": "ليس لديك أي جلسات محجوزة حاليا",
+    "assignmentBonusMsg": "ستتم إضافة درجة الواجب هذه كمكافأة إلى درجتك النهائية.",
+
+  "grades": "العلامات",
+  "myGrades": "علاماتي",
+"assessment": "التقييم",
+"yourAssessment": "التقييم الخاص بك",
+  "instructorFeedback": "ملاحظات المدرب",
+  "instructorNotes": "ملاحظات المدرب",
+  "yourSubmission": "التسليم الخاص بك",
+  "noPoints": "لا يوجد نقاط",
+  "thePoints": "النقاط",
+  "openContent": "فتح المحتوى"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+}
