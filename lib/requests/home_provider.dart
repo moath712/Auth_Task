@@ -1,4 +1,4 @@
-import 'package:flutter_auth_task/screens/verify_email_screen.dart';
+import 'package:flutter_auth_task/requests/verify_provider.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
