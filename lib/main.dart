@@ -37,7 +37,7 @@ class MyApp extends StatelessWidget {
           themeMode: theme,
           localizationsDelegates: AppLocalizations.localizationsDelegates,
           supportedLocales: AppLocalizations.supportedLocales(),
-          home: LoginScreen(),
+          home: const LoginScreen(),
         );
       },
     );

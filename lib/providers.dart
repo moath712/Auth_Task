@@ -24,11 +24,8 @@ class AuthService {
 
       final responseData = response.data;
       final token = responseData['twoFactorToken'];
-      final expiresAt = responseData['expiresAt'];
-      ref.read(twoFactorTokenProvider.notifier).state = token;
 
-      print(token);
-      print(expiresAt);
+      ref.read(twoFactorTokenProvider.notifier).state = token;
 
       return true;
     } catch (e) {

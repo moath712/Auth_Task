@@ -131,10 +131,8 @@ class TwoFactor {
       final responseData = response.data;
 
       final access = responseData['access'];
-      final refresh = responseData['refresh'];
+
       ref.read(accessProvider.notifier).state = access;
-      print("access :  $access");
-      print("refresh : $refresh");
 
       return true;
     } catch (e) {

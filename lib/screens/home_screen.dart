@@ -77,7 +77,7 @@ class _HomeScreenState extends State<HomeScreen> {
             colors: const [
               Colors.yellow,
               Colors.yellow,
-              Colors.pink,
+              Colors.yellow,
               Colors.yellow,
               Colors.yellow
             ],
@@ -103,8 +103,7 @@ final nameProvider = FutureProvider<String>((ref) async {
     headers: {'Authorization': 'Bearer $access'},
   );
   final json = jsonDecode(response.body);
-  print(json);
-  print(json['firstName']);
+
   ref.read(name2.notifier).state = json['firstName'];
   return json['firstName'];
 });
